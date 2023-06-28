@@ -1,0 +1,1 @@
+# clase-scope-closure
